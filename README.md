@@ -170,7 +170,7 @@ I enjoy learning new technologies and turning ideas into working, practical proj
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilBode248&theme=radical"/>
+<img src="https://streak-stats.demolab.com/?user=SahilBode248&theme=radical"/>
 
 </div>
 
