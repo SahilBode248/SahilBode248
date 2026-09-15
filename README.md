@@ -12,18 +12,18 @@
 
 <br/><br/>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-sahilbode6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/SahilBode248">
+  <img src="https://img.shields.io/badge/GITHUB-SahilBode248-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GITHUB--181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:sahilbode6@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-sahilbode6%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6D5BBA&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=6D5BBA&labelColor=333"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&color=6D5BBA&labelColor=333"/>
+<img src="https://komarev.com/ghpvc/?username=SahilBode248&label=Profile%20Views&color=6D5BBA&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/SahilBode248?label=Followers&style=for-the-badge&color=6D5BBA&labelColor=333"/>
+<img src="https://img.shields.io/github/stars/SahilBode248?label=Stars&style=for-the-badge&color=6D5BBA&labelColor=333"/>
 
 </div>
 
@@ -59,7 +59,7 @@ Compact backup power solution for uninterrupted power on small electronic device
 ### 🌱 Smart Agriculture (IoT)
 Real-time monitoring of agricultural conditions using sensors and microcontrollers.
 `ESP32/Arduino` `Sensors` `IoT`
-[🔗 View Repository](https://github.com/YOUR_USERNAME/smart-agriculture)
+[🔗 View Repository](https://github.com/SahilBode248/Smart-AgroTech)
 
 </td>
 </tr>
@@ -165,12 +165,12 @@ I enjoy learning new technologies and turning ideas into working, practical proj
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SahilBode248&show_icons=true&theme=radical&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilBode248&layout=compact&theme=radical"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilBode248&theme=radical"/>
 
 </div>
 
