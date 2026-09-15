@@ -12,14 +12,11 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LINKEDIN-YOUR_NAME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 <a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-YOUR_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GMAIL-sahilbode6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GITHUB-YOUR_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB--181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
