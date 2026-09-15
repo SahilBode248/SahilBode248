@@ -50,16 +50,16 @@
 
 ### ⚡ Mini UPS
 Compact backup power solution for uninterrupted power on small electronic devices.
-`Electronics` `Battery Management` `Power Electronics`
-[🔗 View Repository](https://github.com/YOUR_USERNAME/mini-ups)
+
+<img src="https://img.shields.io/badge/Electronics-333?style=flat-square"/> <img src="https://img.shields.io/badge/Battery_Management-333?style=flat-square"/> <img src="https://img.shields.io/badge/Power_Electronics-333?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌱 Smart Agriculture (IoT)
 Real-time monitoring of agricultural conditions using sensors and microcontrollers.
-`ESP32/Arduino` `Sensors` `IoT`
-[🔗 View Repository](https://github.com/SahilBode248/Smart-AgroTech)
+
+<img src="https://img.shields.io/badge/ESP32%2FArduino-333?style=flat-square"/> <img src="https://img.shields.io/badge/Sensors-333?style=flat-square"/> <img src="https://img.shields.io/badge/IoT-333?style=flat-square"/>
 
 </td>
 </tr>
@@ -68,16 +68,16 @@ Real-time monitoring of agricultural conditions using sensors and microcontrolle
 
 ### 💊 Medicine Cost Prediction
 ML model predicting medical/medicine costs from relevant input features.
-`Python` `Pandas` `NumPy` `Scikit-learn`
-[🔗 View Repository](https://github.com/YOUR_USERNAME/medicine-cost-prediction)
+
+<img src="https://img.shields.io/badge/Python-333?style=flat-square"/> <img src="https://img.shields.io/badge/Pandas-333?style=flat-square"/> <img src="https://img.shields.io/badge/NumPy-333?style=flat-square"/> <img src="https://img.shields.io/badge/Scikit--learn-333?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏃 Women's Safety & Live Route Tracking
 Live location sharing with trusted contacts and emergency alerts.
-`Python` `Mobile Dev` `Location Services`
-[🔗 View Repository](https://github.com/YOUR_USERNAME/womens-safety-tracker)
+
+<img src="https://img.shields.io/badge/Python-333?style=flat-square"/> <img src="https://img.shields.io/badge/Mobile_Dev-333?style=flat-square"/> <img src="https://img.shields.io/badge/Location_Services-333?style=flat-square"/>
 
 </td>
 </tr>
@@ -86,8 +86,8 @@ Live location sharing with trusted contacts and emergency alerts.
 
 ### ☀️ Renewable Energy Monitoring System
 IoT-based tracking of renewable energy generation and usage with abnormality alerts.
-`ESP32` `Sensors` `IoT` `Cloud Dashboard`
-[🔗 View Repository](https://github.com/YOUR_USERNAME/renewable-energy-monitor)
+
+<img src="https://img.shields.io/badge/ESP32-333?style=flat-square"/> <img src="https://img.shields.io/badge/Sensors-333?style=flat-square"/> <img src="https://img.shields.io/badge/IoT-333?style=flat-square"/> <img src="https://img.shields.io/badge/Cloud_Dashboard-333?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
@@ -140,7 +140,7 @@ More AI/ML and embedded builds coming soon — check back or ⭐ this profile.
 
 <div align="center">
 
-`Internet of Things` `Machine Learning & AI` `Advanced Python` `Embedded Systems` `Data Analysis` `Computer Vision` `Software Development`
+<img src="https://img.shields.io/badge/Internet_of_Things-6D5BBA?style=flat-square"/> <img src="https://img.shields.io/badge/Machine_Learning_%26_AI-6D5BBA?style=flat-square"/> <img src="https://img.shields.io/badge/Advanced_Python-6D5BBA?style=flat-square"/> <img src="https://img.shields.io/badge/Embedded_Systems-6D5BBA?style=flat-square"/> <img src="https://img.shields.io/badge/Data_Analysis-6D5BBA?style=flat-square"/> <img src="https://img.shields.io/badge/Computer_Vision-6D5BBA?style=flat-square"/> <img src="https://img.shields.io/badge/Software_Development-6D5BBA?style=flat-square"/>
 
 </div>
 
