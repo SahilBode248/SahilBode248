@@ -1,15 +1,34 @@
-<h1 align="center">Hi 👋, I'm Sahil Bode</h1>
-<h3 align="center">Electronics & Telecommunication Engineering Student | IoT • Embedded Systems • AI/ML</h3>
+<div align="center">
 
-<p align="center">
-  <em>Building technology that solves real-world problems — one project at a time.</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:F7A8C4&height=220&section=header&text=Sahil%20Bode&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Electronics%20%26%20Telecommunication%20Engineer%20%E2%80%A2%20IoT%20%2F%20Embedded%20Systems%20%E2%80%A2%20AI%2FML&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<br/>
+
+### 🚀 Aspiring IoT & AI/ML Engineer
+
+<img src="https://img.shields.io/badge/🎓_B.Tech_E%26TC-Suryodaya_College-6D5BBA?style=for-the-badge&labelColor=333"/>
+<img src="https://img.shields.io/badge/📍-Nagpur,_India-F7A8C4?style=for-the-badge&labelColor=333"/>
+<img src="https://img.shields.io/badge/Open_To-Internships_%26_Full--Time-2EA043?style=for-the-badge&labelColor=333"/>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LINKEDIN-YOUR_NAME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-YOUR_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GITHUB-YOUR_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6D5BBA&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=6D5BBA&labelColor=333"/>
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&color=6D5BBA&labelColor=333"/>
+
+</div>
 
 ---
 
@@ -18,7 +37,7 @@
 - 🎓 B.Tech in Electronics & Telecommunication Engineering — Class of 2027
 - 🏫 Suryodaya College of Engineering & Technology, Nagpur
 - 🤖 Interested in IoT, Embedded Systems, AI/ML, Computer Vision & Automation
-- 🔧 Hands-on experience with Arduino, ESP32, and sensor-based systems
+- 🔧 Hands-on with Arduino, ESP32, and sensor-based systems
 - 🐍 Learning and building projects with Python & Machine Learning
 - 💡 Passionate about practical, industry-oriented engineering solutions
 - 🚀 Focused on combining **Electronics + Software + AI** to build real-world impact
@@ -28,79 +47,105 @@
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### ⚡ Mini UPS
-A compact backup power solution designed to keep small electronic devices running during outages.
-**Tech:** Electronics · Battery Management · Power Electronics
+Compact backup power solution for uninterrupted power on small electronic devices.
+`Electronics` `Battery Management` `Power Electronics`
 [🔗 View Repository](https://github.com/YOUR_USERNAME/mini-ups)
 
-### 🌱 Smart Agriculture (IoT)
-An IoT-based system for monitoring agricultural conditions in real time using sensors and microcontrollers.
-- 🌡️ Temperature & humidity monitoring
-- 💧 Soil/environment monitoring
-- 📡 IoT-based data transmission
-- 📊 Real-time dashboard monitoring
+</td>
+<td width="50%" valign="top">
 
-**Tech:** ESP32/Arduino · Sensors · IoT
+### 🌱 Smart Agriculture (IoT)
+Real-time monitoring of agricultural conditions using sensors and microcontrollers.
+`ESP32/Arduino` `Sensors` `IoT`
 [🔗 View Repository](https://github.com/YOUR_USERNAME/smart-agriculture)
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 💊 Medicine Cost Prediction
-A machine learning model that predicts medical/medicine costs based on relevant input features.
-**Tech:** Python · Pandas · NumPy · Scikit-learn · Machine Learning
+ML model predicting medical/medicine costs from relevant input features.
+`Python` `Pandas` `NumPy` `Scikit-learn`
 [🔗 View Repository](https://github.com/YOUR_USERNAME/medicine-cost-prediction)
 
-### 🏃 Women's Safety & Live Route Tracking
-A safety-focused application that lets users share their live location and route with trusted contacts, with emergency alerts built in.
-- 📍 Live location tracking
-- 🗺️ Route monitoring
-- 🚨 Emergency notifications
-- 👥 Trusted contacts list
+</td>
+<td width="50%" valign="top">
 
-**Tech:** Python · Mobile Development · Location Services
+### 🏃 Women's Safety & Live Route Tracking
+Live location sharing with trusted contacts and emergency alerts.
+`Python` `Mobile Dev` `Location Services`
 [🔗 View Repository](https://github.com/YOUR_USERNAME/womens-safety-tracker)
 
-### ☀️ Renewable Energy Monitoring System
-An IoT-based system for tracking renewable energy generation and usage, with alerting for abnormal conditions.
-- ⚡ Real-time energy monitoring
-- 🌞 Solar energy parameter tracking
-- 📡 IoT connectivity
-- 📊 Cloud dashboard visualization
-- 🚨 Alerts for abnormal readings
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Tech:** ESP32 · Sensors · IoT · Cloud Dashboard
+### ☀️ Renewable Energy Monitoring System
+IoT-based tracking of renewable energy generation and usage with abnormality alerts.
+`ESP32` `Sensors` `IoT` `Cloud Dashboard`
 [🔗 View Repository](https://github.com/YOUR_USERNAME/renewable-energy-monitor)
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ More on the way
+More AI/ML and embedded builds coming soon — check back or ⭐ this profile.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 
 **AI & Machine Learning**
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+<br/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
 
 **Embedded & IoT**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
 
 **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+
+</div>
 
 ---
 
 ## 📚 Currently Learning
 
-`Internet of Things` · `Machine Learning & AI` · `Advanced Python` · `Embedded Systems` · `Data Analysis` · `Computer Vision` · `Software Development`
+<div align="center">
+
+`Internet of Things` `Machine Learning & AI` `Advanced Python` `Embedded Systems` `Data Analysis` `Computer Vision` `Software Development`
+
+</div>
 
 ---
 
@@ -121,24 +166,25 @@ I enjoy learning new technologies and turning ideas into working, practical proj
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
 
----
+<br/>
 
-## 🤝 Connect With Me
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical"/>
 
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-- 🐙 **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- 📧 **Email:** YOUR_EMAIL@example.com
+</div>
 
 ---
 
-<p align="center"><b>💡 "Learn. Build. Improve. Repeat."</b></p>
-<p align="center">⭐ Feel free to explore my repositories and projects!</p>
+<div align="center">
+
+### 💡 "Learn. Build. Improve. Repeat."
+
+⭐ Feel free to explore my repositories and projects!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7A8C4,100:6D5BBA&height=100&section=footer" width="100%"/>
+
+</div>
